@@ -1,11 +1,6 @@
 {
   "name": "JATE",
-  "engines:": {
-    "node": "16.14.2",
-    "npm": "8.5.0"
-  },
   "scripts": {
-    "heroku-prebuild": "npm install --dev",
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
     "start": "webpack --watch"
