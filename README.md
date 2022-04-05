@@ -29,7 +29,7 @@ Online/Offline PWA text editor
   to install the dependencies for this project, run the command "npm install". This will install all necessary dependencies since they are all included in the package.json. 
 
   ## Usage
-  To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
+  To use this app, open it up in the browser (with the deployed app link at the top of this readme). For offline use, the user can go to the link and hit the "install" button at the top left corner of the page. 
 
   ## License
   MIT
