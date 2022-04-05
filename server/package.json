@@ -9,6 +9,7 @@
     "description": "just another text editor",
     "main": "server.js",
     "scripts": {
+        "heroku-prebuild": "npm install --dev",
         "server": "nodemon server.js --ignore client"
     },
     "keywords": [],
